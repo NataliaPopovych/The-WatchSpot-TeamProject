@@ -9,5 +9,9 @@
 @import url('./base/bases.css');
 @import url('./layout/header.css');
 @import url('./components/hero.css');
-
+@import url('./components/aboutus.css');
+@import url('./components/catalog.css');
+@import url('./components/new-watches.css');
+@import url('./components/sale.css');
 @import url('./layout/footer.css');
+@import url('./layout/buynow.css');
